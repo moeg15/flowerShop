@@ -1,0 +1,45 @@
+.box {
+  margin: 10px;
+  background-color: #BDB76B ;
+  border: solid black 10px;
+  height: 50vh;
+  width: 500px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.photos {
+  width: 250px;
+  height: 25vh;
+}
+
+.photo2 {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.description button {
+  margin-right: 10px;
+ height: 5vh;
+ background-color: green;
+  border: solid 5px black;
+}
+
+.price {
+  margin-left: 10px;
+  font-size: 50px;
+}

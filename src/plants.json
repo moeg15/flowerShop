@@ -1,0 +1,144 @@
+{
+  "plants": [
+    {
+      "name": "Monstera Deliciosa (Swiss Cheese Plant)",
+      "description": "Known for its large, glossy, and uniquely split leaves, the Monstera Deliciosa adds a tropical touch to any indoor space. It's a fast-growing plant that thrives in bright, indirect light.",
+      "type": "indoor",
+      "photoUrl":"https://a6adc47bb216dfe8a383-49bf67815854ec9e2c04a8f4abb9cbf5.ssl.cf3.rackcdn.com/images/products2/pl/20/00/02/77/pl2000027702_card_lg.jpg",
+      "price": "$40"
+    },
+    {
+      "name": "Fiddle Leaf Fig (Ficus lyrata)",
+      "description": "With its large, violin-shaped leaves, the Fiddle Leaf Fig is a stylish and popular choice for indoor decor. It prefers bright, filtered light and a consistent watering schedule.",
+      "type": "indoor",
+      "photoUrl":"https://tse4.mm.bing.net/th?id=OIP.vPc5TBjvgKmkavQEcVUnIAHaLI&pid=Api&P=0&h=220",
+      "price": "$60"
+    },
+    {
+      "name": "Spider Plant (Chlorophytum comosum)",
+      "description": "The Spider Plant is an easy-to-care-for plant known for its arching green and white striped leaves. It's excellent for hanging baskets and helps purify the air.",
+      "type": "indoor",
+      "photoUrl":"https://www.almanac.com/sites/default/files/image_nodes/spider-plant_t50-ss.jpg",
+      "price": "$15"
+    },
+    {
+      "name": "Peace Lily (Spathiphyllum)",
+      "description": "The Peace Lily is a beautiful indoor plant with dark green leaves and elegant white flowers. It thrives in low light conditions and is known for its air-purifying qualities.",
+      "type": "indoor",
+      "photoUrl":"https://i.etsystatic.com/20643596/r/il/74362c/6091961996/il_1080xN.6091961996_89ic.jpg",
+      "price": "$25"
+    },
+    {
+      "name": "Snake Plant (Sansevieria trifasciata)",
+      "description": "The Snake Plant, also known as Mother-in-Law's Tongue, features stiff, upright leaves with a striking green and yellow pattern. It's a hardy plant that tolerates low light and infrequent watering.",
+      "type": "indoor",
+      "photoUrl":"https://tse3.mm.bing.net/th?id=OIP.L-xB_Q07j-sEG-fh-w3cWAHaIw&pid=Api&P=0&h=220",
+      "price": "$30"
+    },
+    {
+      "name": "Pothos (Epipremnum aureum)",
+      "description": "Pothos is a versatile and low-maintenance plant with trailing vines and heart-shaped leaves. It can thrive in a variety of lighting conditions and is perfect for hanging baskets or pots.",
+      "type": "indoor",
+      "photoUrl":"https://aroidwiki.com/wp-content/uploads/2021/11/golden-pothos-care-image1-1-scaled.jpg",
+      "price": "$20"
+    },
+    {
+      "name": "ZZ Plant (Zamioculcas zamiifolia)",
+      "description": "The ZZ Plant is known for its glossy, dark green leaves and robust nature. It's incredibly low-maintenance, tolerating low light and infrequent watering.",
+      "type": "indoor",
+      "photoUrl":"https://terragreenhouses.com/wp-content/uploads/2020/09/Zz_Plant_10inch-scaled.jpg",
+      "price": "$35"
+    },
+    {
+      "name": "Aloe Vera",
+      "description": "Aloe Vera is a succulent with thick, fleshy leaves filled with a soothing gel often used for burns and skin care. It prefers bright, indirect sunlight and minimal watering.",
+      "type": "indoor",
+      "photoUrl":"https://tse3.mm.bing.net/th?id=OIP.Le9epeYsAvb8lgpdB8uewwHaJ5&pid=Api&P=0&h=220",
+      "price": "$10"
+    },
+    {
+      "name": "Philodendron",
+      "description": "Philodendrons are popular indoor plants with heart-shaped leaves that can be trailing or upright. They are easy to care for and thrive in moderate to low light conditions.",
+      "type": "indoor",
+      "photoUrl":"https://www.thespruce.com/thmb/xl33fzuvsH2rQlZhIn8DAsIJ7yg=/4327x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-philodendron-houseplants-1902768-06-5c4eb615a22040cfbe04e4dff7b40aa5.jpg",
+      "price": "$25"
+    },
+    {
+      "name": "Rubber Plant (Ficus elastica)",
+      "description": "The Rubber Plant has large, glossy leaves and can grow quite tall, making it a striking addition to any indoor space. It prefers bright, indirect light and regular watering.",
+      "type": "indoor",
+      "photoUrl":"https://www.sunspotnursery.com/wp-content/uploads/2020/09/Rubber_Plant_Ficus_elastica_Robusta-scaled-e1600023033575.jpg",
+      "price": "$45"
+    },
+    {
+      "name": "Lavender (Lavandula)",
+      "description": "Lavender is a fragrant herb with beautiful purple flowers, often used in aromatherapy and cooking. It thrives in full sun and well-drained soil.",
+      "type": "outdoor",
+      "photoUrl":"https://tse3.mm.bing.net/th?id=OIP.UznHpJrqp_j7RscQDB4aagAAAA&pid=Api&P=0&h=220",
+      "price": "$15"
+    },
+    {
+      "name": "Rose (Rosa)",
+      "description": "Roses are classic garden plants known for their beautiful, fragrant blooms in a variety of colors. They prefer full sun and well-drained soil, with regular watering and pruning.",
+      "type": "outdoor",
+      "photoUrl":"https://cdn.pixabay.com/photo/2017/10/24/18/17/rose-2885586_960_720.jpg",
+      "price": "$20"
+    },
+    {
+      "name": "Hydrangea",
+      "description": "Hydrangeas are popular for their large, colorful flower heads that can change color based on soil pH. They prefer partial shade and consistently moist soil.",
+      "type": "outdoor",
+      "photoUrl":"https://tse3.mm.bing.net/th?id=OIP.ZeEfi0OE49AJ6gWE8UqKngHaFM&pid=Api&P=0&h=220",
+      "price": "$30"
+    },
+    {
+      "name": "Boxwood (Buxus)",
+      "description": "Boxwood is a dense, evergreen shrub often used for hedges and topiary. It grows well in full sun to partial shade and prefers well-drained soil.",
+      "type": "outdoor",
+      "photoUrl":"https://tse2.explicit.bing.net/th?id=OIP.pOzDpzME35PxJWHbDChL4QHaE7&pid=Api&P=0&h=220",
+      "price": "$35"
+    },
+    {
+      "name": "Hosta",
+      "description": "Hostas are shade-loving perennials known for their lush, variegated foliage. They thrive in partial to full shade and moist, well-drained soil.",
+      "type": "outdoor",
+      "photoUrl":"https://www.bhg.com/thmb/zYeBZbx89wltg6EN7ifF5-LfWIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sagae-hosta-fc6e3dbc-726e032542ac405cb35195c4e7e5fd31.jpg",
+      "price": "$20"
+    },
+    {
+      "name": "Daylily (Hemerocallis)",
+      "description": "Daylilies are hardy perennials with long, arching leaves and vibrant, trumpet-shaped flowers. They prefer full sun to partial shade and are very low-maintenance.",
+      "type": "outdoor",
+      "photoUrl":"https://tse3.mm.bing.net/th?id=OIP.hQpbi98_nKIgql5BDXibgQHaHC&pid=Api&P=0&h=220",
+      "price": "$15"
+    },
+    {
+      "name": "Japanese Maple (Acer palmatum)",
+      "description": "Japanese Maples are prized for their delicate, lacy leaves and beautiful autumn colors. They thrive in partial shade and well-drained soil.",
+      "type": "outdoor",
+      "photoUrl":"https://www.thespruce.com/thmb/QJmC5puq6Fd4ku0LbaS4Q04pnM8=/2900x2300/filters:no_upscale():max_bytes(150000):strip_icc()/Crimson-Queen-big-56a5840d3df78cf77288ae36.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "Marigold (Tagetes)",
+      "description": "Marigolds are bright, cheerful annuals that bloom profusely in shades of yellow and orange. They prefer full sun and well-drained soil, making them excellent for borders and containers.",
+      "type": "outdoor",
+      "photoUrl":"https://tse1.mm.bing.net/th?id=OIP.BUrCUoHPGyH-smie402RpwHaFi&pid=Api&P=0&h=220",
+      "price": "$10"
+    },
+    {
+      "name": "Petunia",
+      "description": "Petunias are popular annuals known for their vibrant, trumpet-shaped flowers that bloom throughout the summer. They thrive in full sun and well-drained soil.",
+      "type": "outdoor",
+      "photoUrl":"https://tse1.mm.bing.net/th?id=OIP.MpHtjJORP30gC2mUFglwfgHaE8&pid=Api&P=0&h=220",
+      "price": "$10"
+    },
+    {
+      "name": "Tulip (Tulipa)",
+      "description": "Tulips are beloved spring bulbs that produce large, showy flowers in a wide range of colors. They prefer full sun and well-drained soil, making them a favorite for spring gardens.",
+      "type": "outdoor",
+      "photoUrl":"https://www.wallpaperflare.com/static/880/696/898/tulips-pink-tulip-flowers-wallpaper.jpg",
+      "price": "$12"
+    }
+  ]
+}

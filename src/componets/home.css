@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+}
+.navbar{
+  height: 10vh;
+  background-color: olive;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.showProducts{
+ 
+  background-color: #636B2F;
+  height: 100%;
+}
+
+.display{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.about{
+  font-size: 25px;
+}
+
+.notalink{
+ color: inherit;
+ 
+}
+.right-nav{
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}

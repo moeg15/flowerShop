@@ -1,0 +1,31 @@
+.container-col {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  padding-top: 10%;
+  align-items: center;
+  background-color: #BDB76B;
+  background-image: url('../../public/red-flowers-transparent-10.png');
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.container-col p {
+  font-size: 60px;
+}
+
+
+.contact{
+  margin-bottom: 10%
+}
+.skibby{
+  display: flex;
+  flex-direction: column;
+}
+
+textarea{
+  resize: none;
+}
+
+
