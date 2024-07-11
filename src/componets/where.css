@@ -38,3 +38,8 @@ button {
   display: flex;
   margin-top: 5%;
 }
+.address{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 40px;
+}

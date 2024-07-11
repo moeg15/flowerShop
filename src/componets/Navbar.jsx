@@ -14,7 +14,7 @@ export default function Navbar(){
   <div className='right-nav'>
 
     <Link className='about' to={"/about"}>About</Link>
-    <Link className='about' to={"/where"}>Directions</Link>
+    <Link className='about' to={"/where"}>Address / Hours</Link>
     <Link className='about' to={"/contact"}>Contact</Link>
 
 

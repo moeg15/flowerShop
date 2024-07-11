@@ -97,6 +97,7 @@ export default function Where() {
     <>
       <div id="map" style={{ height: "500px", width: "100%" }}></div>
       <div className="center">
+        <p className='address'>1234 Petal Parkway Floraville,  VT 12345 United States</p>
         <div className='hours'>
           {weekday.map((day, index) => (
             <div key={index} dangerouslySetInnerHTML={{ __html: day }}></div>
