@@ -15,7 +15,7 @@ export default function Contact(){
           <input className='test' id='email' placeholder='email' style={{alignSelf: 'center'}} type="email" />
           <label  style={{alignSelf: 'center'}} htmlFor="name">name:</label>
           <input className='test' id='name' placeholder='name' style={{alignSelf: 'center'}} type="text" />
-        <textarea placeholder='message' name="" id="" rows={10} height={50}></textarea>
+        <textarea style={{marginTop: '15px'}} placeholder='message' name="" id="" rows={10} height={50}></textarea>
 
         </form>
         </div>
